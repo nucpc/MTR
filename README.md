@@ -47,8 +47,7 @@
 - (14).	After device installation is complete, Windows OOBE will start, just start clicking next to complete and then it will reboot again.
 - (15).	After the final reboot, the next screen will be the MTR apps setup wizard, just simply fill up the field with the correct account info.
 
-##
-***__Step 1: Setup Wizard  for MTR App__***
+### ***__Step 1: Setup Wizard  for MTR App__***
 #
 **Clicking the agree, NEXT**
 <img width="1024" alt="P1" src="docs/images/P4.png">
