@@ -29,10 +29,10 @@
 - (9).	Plug your USB stick directly into the USB port on the system.
 - (10).	Before we boot and install new image to the MTR system, first we need to adjust the BIOS setting.
   - a.	Entering NUC BIOS
-        - i.	Power on the NUC PC system, then immediately Press F2 to enter BIOS
-              - 1.	In the main screen press Advanced
-              - 2.	Now select Devices, Onboard Devices 
-              - 3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
+       - i.	Power on the NUC PC system, then immediately Press F2 to enter BIOS
+          - 1.	In the main screen press Advanced
+          - 2.	Now select Devices, Onboard Devices 
+          - 3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
 
 <img width="1024" alt="Bios_D" src="docs/images/Bios_D.png">
 
