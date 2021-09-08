@@ -35,7 +35,7 @@
           3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
 
 <center><img width="800" alt="centered image" src="docs/images/Bios_D.png"></center>
-<center><img src="docs/images/Bios_D.png" alt="centered image" height="598" width="398"> </center>
+<center><img src="docs/images/Bios_D.png" alt="centered image" height="400" width="800"> </center>
 
 
 
