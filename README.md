@@ -34,18 +34,14 @@
           2.	Now select Devices, Onboard Devices 
           3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
 #
-<img width="640" alt="P1" src="docs/images/Bios_D.png">
-
+<img width="800" alt="P1" src="docs/images/Bios_D.png">
 #
-<center><img src="docs/images/Bios_D.png" alt="centered image" height="400" width="800"> </center>
-
-
-
 ***Now go to Power do the same match what you see below don’t forget scroll down more options in bottom of secondary power setting that need to be enable/disable..***
 <img width="800" alt="P2" src="docs/images/Bios_P.png">
+#
 <img width="800" alt="P3" src="docs/images/P1.png">
 ***Exit the NUC PC BIOS but don’t forget to save all the changes you made, the system will not reboot.***
-
+#
 - (11). Now we will be Booting to the USB stick. Start pressing F10 to enter the boot menu. Select the UEFI USB option and continue.
 - (12).	Wait. The imaging process can take a very long time, depending on how fast your USB media is.
 - (13).	Once the restoration process has completed, the system will reboot automatically, and proceed through device installation.
@@ -56,7 +52,7 @@
 #
 **Clicking the agree, NEXT**
 <img width="800" alt="P4" src="docs/images/P4.png">
-
+#
 - ***Account (for testing purpose let’s use test@domain.com)***
 - ***Email: test@domain.com***
 - ***Password: test@domain.com***
