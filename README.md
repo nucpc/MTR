@@ -76,7 +76,7 @@
 <img width="1024" alt="P1" src="docs/images/P9.png">
 
 ***This will pop-up windows requesting for Admin password, type in sfb then enter.***
-<img width="480" alt="P1" src="docs/images/P10.png">
+<img width="3600" alt="P1" src="docs/images/P10.png">
 
 ***In Setting Windows***
 ***Click Windows Settings***
@@ -89,7 +89,7 @@
 
 ***We now need to enable Remote Desktop follow the steps below.***
 ***Right click on Windows Logo, select System.***
-<img width="480" alt="P1" src="docs/images/P13.png">
+<img width="360" alt="P1" src="docs/images/P13.png">
 
 ***In the Settings, scroll down until you see Remote Desktop***
 ***Now in the right windows you’ll see Enable Remote Desktop tap on it.***
