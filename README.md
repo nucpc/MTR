@@ -34,11 +34,11 @@
           2.	Now select Devices, Onboard Devices 
           3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
 
-<img width="1024" alt="Bios_D" src="docs/images/Bios_D.png">
+<img width="1024" alt="P1" src="docs/images/Bios_D.png">
 
 ***Now go to Power do the same match what you see below don’t forget scroll down more options in bottom of secondary power setting that need to be enable/disable..***
-<img width="1024" alt="P1" src="docs/images/Bios_P.png">
-<img width="1024" alt="P1" src="docs/images/P1.png">
+<img width="1024" alt="P2" src="docs/images/Bios_P.png">
+<img width="1024" alt="P3" src="docs/images/P1.png">
 ***Exit the NUC PC BIOS but don’t forget to save all the changes you made, the system will not reboot.***
 
 - (11). Now we will be Booting to the USB stick. Start pressing F10 to enter the boot menu. Select the UEFI USB option and continue.
@@ -50,7 +50,7 @@
 ### ***__Step 1: Setup Wizard  for MTR App__***
 #
 **Clicking the agree, NEXT**
-<img width="1024" alt="P1" src="docs/images/P4.png">
+<img width="1024" alt="P4" src="docs/images/P4.png">
 
 ***Account (for testing purpose let’s use test@domain.com)***
 ***Email: test@domain.com***
@@ -59,48 +59,48 @@
 ***Check Modern Authentication***
 ### NEXT
 
-<img width="1024" alt="P1" src="docs/images/P5.png">
+<img width="1024" alt="P5" src="docs/images/P5.png">
 
 ***_In Advanced, just simple click NEXT_***
-<img width="1024" alt="P1" src="docs/images/P6.png">
+<img width="1024" alt="P6" src="docs/images/P6.png">
 
 ***_Now, click Finish_***
-<img width="1024" alt="P1" src="docs/images/P7.png">
+<img width="1024" alt="P7" src="docs/images/P7.png">
 
 ***_The MTR Unit should reboot._***
 
 ### ***__Step 2: Enabling Remote Desktop to the NUC PC__***
 #
 ***Now from MTR App, click …MORE, Click Settings***
-<img width="1024" alt="P1" src="docs/images/P8.png">
-<img width="1024" alt="P1" src="docs/images/P9.png">
+<img width="1024" alt="P8" src="docs/images/P8.png">
+<img width="1024" alt="P9" src="docs/images/P9.png">
 
 ***This will pop-up windows requesting for Admin password, type in sfb then enter.***
-<img width="3600" alt="P1" src="docs/images/P10.png">
+<img width="360" alt="P10" src="docs/images/P10.png">
 
 ***In Setting Windows***
 ***Click Windows Settings***
-<img width="1024" alt="P1" src="docs/images/P11.png">
+<img width="1024" alt="P11" src="docs/images/P11.png">
 
 ***Now Select Administrator for the profile.***
 ***Type in sfb for password then enter.***
-<img width="1024" alt="P1" src="docs/images/P12.png">
+<img width="1024" alt="P12" src="docs/images/P12.png">
 
 
 ***We now need to enable Remote Desktop follow the steps below.***
 ***Right click on Windows Logo, select System.***
-<img width="360" alt="P1" src="docs/images/P13.png">
+<img width="360" alt="P13" src="docs/images/P13.png">
 
 ***In the Settings, scroll down until you see Remote Desktop***
 ***Now in the right windows you’ll see Enable Remote Desktop tap on it.***
-<img width="1024" alt="P1" src="docs/images/P14.png">
+<img width="1024" alt="P14" src="docs/images/P14.png">
 
 ***Underneath***
 ***You’ll see “How to connect to this PC”***
 ***Use this PC name to connect from your remote device:***
 ***Double click on the name to highlight it then right click to then copy.***
 ***Provide me that PC Name.***
-<img width="1024" alt="P1" src="docs/images/P54.png">
+<img width="1024" alt="P15" src="docs/images/P15.png">
 
 
 ***_That’s it, you’ll all done._***
