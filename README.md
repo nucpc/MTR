@@ -1,11 +1,11 @@
 ### Re-Image MTR Unit
-#
 
+#
 ***_Requirement_***
   - USB Keyboard
   - USB 32GB DRIVE
   - Click here to download the INTEL NUC M203 Recovery Image (13GB+)
-
+#
 ***_A USB stick formatted as FAT32_***
   - The USB stick should be large enough to contain the (unzipped) restoration media.
   - It is strongly recommended that you use the fastest USB media available to you, to minimize the time the re-imaging process takes.
@@ -17,17 +17,17 @@
 
 
 ***Preparing USB Drive.***
-- .	Plug the USB stick you wish to use into your desktop/laptop computer.
-- .	Right-click the USB stick, and select “Format…”
-- .	Use the “File system” drop-down to select “FAT32”
-- .	Click “Start”
-- .	Extract your manufacturer’s recovery ZIP file to the root of your USB stick
+- (1).	Plug the USB stick you wish to use into your desktop/laptop computer.
+- (2).	Right-click the USB stick, and select “Format…”
+- (3).	Use the “File system” drop-down to select “FAT32”
+- (4).	Click “Start”
+- (5).	Extract your manufacturer’s recovery ZIP file to the root of your USB stick
     - a.	If the files are unzipped into a single sub-folder and into the root of the USB drive.
-- .	Eject your USB stick from your desktop/laptop computer.
-- .	If your MTR system is not already power off, power it off now by pressing and holding the power button.
-- .	Remove all peripheral from your MTR system except the keyboard and mouse.
-- .	Plug your USB stick directly into the USB port on the system.
-- .	Before we boot and install new image to the MTR system, first we need to adjust the BIOS setting.
+- (6).	Eject your USB stick from your desktop/laptop computer.
+- (7).	If your MTR system is not already power off, power it off now by pressing and holding the power button.
+- (8).	Remove all peripheral from your MTR system except the keyboard and mouse.
+- (9).	Plug your USB stick directly into the USB port on the system.
+- (10).	Before we boot and install new image to the MTR system, first we need to adjust the BIOS setting.
   - a.	Entering NUC BIOS
   - i.	Power on the NUC PC system, then immediately Press F2 to enter BIOS
     - 1.	In the main screen press Advanced
@@ -35,3 +35,7 @@
     - 3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
 
 ![TEST](docs/images/Bios_D.png)
+
+    - Now go to Power do the same match what you see below don’t forget scroll down more options in bottom of secondary power setting that need to be enable/disable..
+    
+![TEST](docs/images/Bios_P.png)
