@@ -52,11 +52,55 @@
 **Clicking the agree, NEXT**
 <img width="1024" alt="P1" src="docs/images/P4.png">
 
-***Account (for testing purpose let’s use test@domain.com)
-	Email: test@domain.com
-	Password: test@domain.com
-	Supported meeting mode: Microsoft Teams (Default)
-	Check Modern Authentication***
+***Account (for testing purpose let’s use test@domain.com)***
+***Email: test@domain.com***
+***Password: test@domain.com***
+***Supported meeting mode: Microsoft Teams (Default)***
+***Check Modern Authentication***
 ### NEXT
 
 <img width="1024" alt="P1" src="docs/images/P5.png">
+
+***_In Advanced, just simple click NEXT_***
+<img width="1024" alt="P1" src="docs/images/P6.png">
+
+***_Now, click Finish_***
+<img width="1024" alt="P1" src="docs/images/P7.png">
+
+***_The MTR Unit should reboot._***
+
+### ***__Step 2: Enabling Remote Desktop to the NUC PC__***
+#
+***Now from MTR App, click …MORE, Click Settings***
+<img width="1024" alt="P1" src="docs/images/P8.png">
+<img width="1024" alt="P1" src="docs/images/P9.png">
+
+***This will pop-up windows requesting for Admin password, type in sfb then enter.***
+<img width="1024" alt="P1" src="docs/images/P10.png">
+
+***In Setting Windows***
+***Click Windows Settings***
+<img width="1024" alt="P1" src="docs/images/P11.png">
+
+***Now Select Administrator for the profile.***
+***Type in sfb for password then enter.***
+<img width="1024" alt="P1" src="docs/images/P12.png">
+
+
+***We now need to enable Remote Desktop follow the steps below.***
+***Right click on Windows Logo, select System.***
+<img width="1024" alt="P1" src="docs/images/P13.png">
+
+***In the Settings, scroll down until you see Remote Desktop***
+***Now in the right windows you’ll see Enable Remote Desktop tap on it.***
+<img width="1024" alt="P1" src="docs/images/P14.png">
+
+***Underneath***
+***You’ll see “How to connect to this PC”***
+***Use this PC name to connect from your remote device:***
+***Double click on the name to highlight it then right click to then copy.***
+***Provide me that PC Name.***
+<img width="1024" alt="P1" src="docs/images/P54.png">
+
+
+***_That’s it, you’ll all done._***
