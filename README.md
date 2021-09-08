@@ -1,15 +1,16 @@
 ### Re-Image MTR Unit
 #
-Requirement
-USB Keyboard
-USB 32GB DRIVE
-Click here to download the INTEL NUC M203 Recovery Image (13GB+)
+
+***_Requirement_***
+  - USB Keyboard
+  - USB 32GB DRIVE
+  - Click here to download the INTEL NUC M203 Recovery Image (13GB+)
+
+***_A USB stick formatted as FAT32_***
+  - The USB stick should be large enough to contain the (unzipped) restoration media.
+  - It is strongly recommended that you use the fastest USB media available to you, to minimize the time the re-imaging process takes.
+
 #
-A USB stick formatted as FAT32
-•	The USB stick should be large enough to contain the (unzipped) restoration media.
-•	It is strongly recommended that you use the fastest USB media available to you, to minimize the time the re-imaging process takes.
-
-
 Step 1.
 Download the new INTEL NUC M203 Recovery Image (13GB+)
 Once the Image file is download process to the next step.
