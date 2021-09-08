@@ -39,3 +39,4 @@
     
 ![TEST](docs/images/Bios_P.png)
 ![TEST](docs/images/P1.png)
+<img width="1024" alt="P1" src="docs/images/P1.png">
