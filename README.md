@@ -52,11 +52,11 @@
 **Clicking the agree, NEXT**
 <img width="1024" alt="P4" src="docs/images/P4.png">
 
-***Account (for testing purpose let’s use test@domain.com)***
-***Email: test@domain.com***
-***Password: test@domain.com***
-***Supported meeting mode: Microsoft Teams (Default)***
-***Check Modern Authentication***
+- ***Account (for testing purpose let’s use test@domain.com)***
+- ***Email: test@domain.com***
+- ***Password: test@domain.com***
+- ***Supported meeting mode: Microsoft Teams (Default)***
+- ***Check Modern Authentication***
 ### NEXT
 
 <img width="1024" alt="P5" src="docs/images/P5.png">
@@ -76,6 +76,7 @@
 <img width="1024" alt="P9" src="docs/images/P9.png">
 
 ***This will pop-up windows requesting for Admin password, type in sfb then enter.***
+#
 <img width="360" alt="P10" src="docs/images/P10.png">
 
 ***In Setting Windows***
