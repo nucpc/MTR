@@ -17,17 +17,17 @@
 
 
 ***Preparing USB Drive.***
-- 1.	Plug the USB stick you wish to use into your desktop/laptop computer.
-- 2.	Right-click the USB stick, and select “Format…”
-- 3.	Use the “File system” drop-down to select “FAT32”
-- 4.	Click “Start”
-- 5.	Extract your manufacturer’s recovery ZIP file to the root of your USB stick
-  - a.	If the files are unzipped into a single sub-folder and into the root of the USB drive.
-- 6.	Eject your USB stick from your desktop/laptop computer.
-- 7.	If your MTR system is not already power off, power it off now by pressing and holding the power button.
-- 8.	Remove all peripheral from your MTR system except the keyboard and mouse.
-- 9.	Plug your USB stick directly into the USB port on the system.
-- 10.	Before we boot and install new image to the MTR system, first we need to adjust the BIOS setting.
+- .	Plug the USB stick you wish to use into your desktop/laptop computer.
+- .	Right-click the USB stick, and select “Format…”
+- .	Use the “File system” drop-down to select “FAT32”
+- .	Click “Start”
+- .	Extract your manufacturer’s recovery ZIP file to the root of your USB stick
+    - a.	If the files are unzipped into a single sub-folder and into the root of the USB drive.
+- .	Eject your USB stick from your desktop/laptop computer.
+- .	If your MTR system is not already power off, power it off now by pressing and holding the power button.
+- .	Remove all peripheral from your MTR system except the keyboard and mouse.
+- .	Plug your USB stick directly into the USB port on the system.
+- .	Before we boot and install new image to the MTR system, first we need to adjust the BIOS setting.
   - a.	Entering NUC BIOS
   - i.	Power on the NUC PC system, then immediately Press F2 to enter BIOS
     - 1.	In the main screen press Advanced
