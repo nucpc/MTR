@@ -35,6 +35,9 @@
           3.	In Legacy Device configuration match what you see in the screen shot below to the NUC system you currently working on.
 
 <center><img width="800" alt="centered image" src="docs/images/Bios_D.png"></center>
+<center><img src="docs/images/Bios_D.png" alt="centered image" height="598" width="398"> </center>
+
+
 
 ***Now go to Power do the same match what you see below don’t forget scroll down more options in bottom of secondary power setting that need to be enable/disable..***
 <img width="800" alt="P2" src="docs/images/Bios_P.png">
