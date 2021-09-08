@@ -51,3 +51,12 @@
 #
 **Clicking the agree, NEXT**
 <img width="1024" alt="P1" src="docs/images/P4.png">
+
+***Account (for testing purpose let’s use test@domain.com)
+	Email: test@domain.com
+	Password: test@domain.com
+	Supported meeting mode: Microsoft Teams (Default)
+	Check Modern Authentication***
+### NEXT
+
+<img width="1024" alt="P1" src="docs/images/P5.png">
